@@ -206,7 +206,7 @@ export const achievements = [
     event: "Global AI HackFest 2023",
     position: "Winner",
     content1:
-      "1st Position in the Education, Finance & Tech track by AI Planet",
+      "2nd Position in the Education, Finance & Tech track by AI Planet",
     content2: "",
     content3: "",
     article:
@@ -980,10 +980,10 @@ export const extraCurricular = [
         text: "Successfully coordinated Deepotsav 2024 in Ayodhya, contributing to a Guinness World Record by organizing the lighting of over 24.25 lakh diyas at Ram ki Paidi.",
         link: "",
       },
-      {
-        text: "Collaborate with government departments (like Tourism and Culture) for logistics and approvals.",
-        link: "",
-      },
+      // {
+      //   text: "Collaborate with government departments (like Tourism and Culture) for logistics and approvals.",
+      //   link: "",
+      // },
       {
         text: "Collaborate with government departments (like Tourism and Culture) for logistics and approvals.",
         link: "",
